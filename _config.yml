@@ -24,8 +24,8 @@ description: >-
   Hey, I'm Jack and I like to write python code. I'm trying to maintain a blog
   to keep all the information I learn daily in my head and also to express some
   of the very strong opinions (often wrong opinions) I have about the way code
-  should be written. I'm still new to using [jekyll](https://jekyllrb.com) but
-  I'm really hoping there's a way to leave comments so that I can get some
+  should be written. I'm still new to using jekyll but I'm really hoping
+  there's a way to leave comments so that I can get some
   feedback on anything I might write.
 url: "https://johnhoman.github.io"
 github_username:  johnhoman
