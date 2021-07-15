@@ -1,5 +1,3 @@
-# Docker Buildtime Secrets From Start to Finish
-
 ## Private Python Packages
 
 ```Dockerfile
