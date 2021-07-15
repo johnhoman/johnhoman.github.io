@@ -29,6 +29,7 @@ description: >-
   feedback on anything I might write.
 url: "https://johnhoman.github.io"
 github_username:  johnhoman
+markdown: kramdown
 
 # Build settings
 theme: minima
